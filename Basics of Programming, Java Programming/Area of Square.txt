@@ -1,0 +1,7 @@
+class Main {
+	public static void main (String[] args) {
+           Scanner p = new Scanner(System.in);
+		   int t = p.nextInt();
+		   System.out.print(t*t);       // Your code here
+	}
+}
